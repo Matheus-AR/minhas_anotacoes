@@ -1,0 +1,20 @@
+Conceitos basicos
+
+Para que serve a lógica?
+Base para estruturar pensamento é o algoritmo
+
+Base sobre algoritmos
+Algoritmo é o passo a passo de uma sequencia logica
+Passo 1 - Qual o problema estou tentando resolver?
+
+Exercicio de fixação do dia a dia
+passo 1 Abrir o forno
+passo 2 Forno está acesso?
+passo 3 Sim: Botar lenha
+	Não: Acender fogo
+passo 4 Assar pão
+
+o algoritmo tem uma ordem lógica para acontecer
+
+o que são fluxogramas
+representação visual de uma ordem lógica 

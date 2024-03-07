@@ -1,0 +1,37 @@
+Notas React
+
+Configuração inicial
+1) instalando vscode
+2) instalando node e npm
+3) instalando yarn
+npm install -g yarn
+
+4) instalando React DevTools
+- ferramenta de depuração
+- inspecionar hierarquia de componentes do React
+
+Biblioteca: compartilhar soluções
+Framework: ferramenta que vai ajudar a desenvolver o projeto, não em detalhes de configurações.
+5) instalando Extensões para vscode
+
+Criando Projeto React
+1) npx create-react-app <nome_projeto>
+- react trabalha com estrutura pwa
+- react tudo é componente
+- componente deve ser criado com a letra inicial maiuscula
+2) npm run start
+- rodar a aplicação react
+
+Ideia é centralizar em components
+Ciclo de vida de um componente
+- 1º constructor: iniciar a construção do componente. getDerivedStateFromProps
+- 2º componentDidMount: quando o componente está sendo montado
+- 3º shouldComponentUpdate: quando o componente precisa ser atualizado.
+- 4º render: 
+- 5º getSnapshotBeforeUpdate: 
+- 6º componentDidUpdate
+- 7º componentWillUnmount
+
+
+Passo desafio 01
+1) yarn add styled-components
